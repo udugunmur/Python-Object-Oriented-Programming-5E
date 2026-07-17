@@ -105,8 +105,19 @@ the relevant chapters, we note the packages and provide the install instructions
 packages are in the Python Package Index, at https://pypi.org.</li>
   </ul>
   </details>
-    
 
+<details open> 
+  <summary><h2>Errata & Troubleshooting Tips</summary>
+
+### `Page 440` (**Imitating objects using mocks**): 
+
+The Status class defines an enumeration of `three` string values. We’ve provided symbolic names
+such as Status.CANCELLED so that we can have a finite, bounded domain of valid status values. The
+actual values stored in the database will be strings such as “CANCELLED” that — for now — happen
+to match the symbols we’ll be using in the application. In the future, the domain of values may
+expand or change, but we’d like to keep our application’s symbolic names separate from the strings
+that appear in the database. It’s common to use numeric codes with Enum, but they can be difficult
+to remember.
 
 <details> 
   <summary><h2>Get to know Authors</h2></summary>
