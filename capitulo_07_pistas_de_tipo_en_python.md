@@ -265,3 +265,4 @@ Puntos clave tratados en este capítulo:
 En este capítulo exploramos el sistema de pistas de tipado en Python, su integración con la programación orientada a objetos, el análisis estático mediante herramientas especializadas y la validación en tiempo de ejecución con Pydantic.
 
 En el próximo capítulo, analizaremos en profundidad las **estructuras de datos en Python**, desde tuplas y dataclasses hasta diccionarios tipados, conjuntos y colas.
+

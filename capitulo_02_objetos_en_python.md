@@ -882,3 +882,4 @@ Puntos clave tratados en este capítulo:
 En este capítulo aprendimos a crear clases y asignarles propiedades y métodos en Python. Comprendimos la diferencia entre constructor e inicializador, el enfoque flexible de control de acceso, los niveles de alcance con módulos y paquetes, y cómo gestionar librerías de terceros con entornos virtuales.
 
 En el próximo capítulo, exploraremos cómo compartir implementaciones entre clases mediante la **herencia**.
+

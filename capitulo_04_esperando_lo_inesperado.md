@@ -549,3 +549,4 @@ Puntos clave tratados en este capítulo:
 En este capítulo analizamos en profundidad el lanzamiento, captura, propagación y personalización de excepciones en Python. Las excepciones proporcionan un mecanismo robusto y expresivo para gestionar condiciones inusuales y estructurar el control de flujo sin recurrir a códigos de error manuales.
 
 En el próximo capítulo, integraremos todos los conceptos estudiados hasta ahora para analizar cuándo y cómo conviene aplicar el diseño orientado a objetos en aplicaciones reales en Python.
+

@@ -768,3 +768,4 @@ Puntos clave tratados en este capítulo:
 En este capítulo exploramos patrones avanzados de diseño estructurales y de comportamiento en Python.
 
 En el próximo capítulo, abordaremos un pilar fundamental para garantizar la calidad del software orientado a objetos: las **pruebas unitarias y suites de testing** con `unittest`, `pytest` y `doctest`.
+

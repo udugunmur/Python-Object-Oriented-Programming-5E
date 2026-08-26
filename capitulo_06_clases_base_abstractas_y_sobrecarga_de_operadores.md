@@ -565,3 +565,4 @@ Puntos clave tratados en este capítulo:
 En este capítulo exploramos las clases base abstractas, la integración con las abstracciones de colecciones estándar, la sobrecarga de operadores para construir APIs naturales y la personalización de clases mediante metaclases.
 
 En los próximos capítulos, profundizaremos en el sistema de tipos genéricos y las estructuras de datos avanzadas en Python.
+

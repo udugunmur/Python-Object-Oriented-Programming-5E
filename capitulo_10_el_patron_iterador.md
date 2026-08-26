@@ -428,3 +428,4 @@ Puntos clave tratados en este capítulo:
 En este capítulo analizamos en profundidad el patrón iterador en Python, desde los fundamentos del protocolo `__iter__` y `__next__` hasta las comprensiones y las funciones generadoras basadas en `yield`.
 
 En el próximo capítulo, exploraremos los **patrones de diseño comunes** en Python: Decorator, Observer, Strategy, Command, State y Singleton.
+

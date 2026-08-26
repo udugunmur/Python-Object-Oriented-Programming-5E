@@ -663,3 +663,4 @@ Puntos clave tratados en este capítulo:
 Hemos explorado desde la herencia simple hasta la herencia múltiple, la resolución del problema del diamante mediante `super()` y el MRO, y el diseño polimórfico asistido por *duck typing* y protocolos.
 
 En el próximo capítulo, abordaremos el manejo de situaciones excepcionales y el diseño de excepciones personalizadas.
+

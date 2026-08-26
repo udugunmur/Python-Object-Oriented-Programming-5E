@@ -629,3 +629,4 @@ Con este capítulo concluimos nuestro recorrido por la **Programación Orientada
 A lo largo de este libro hemos transitado desde los fundamentos del diseño orientado a objetos, el sistema de clases, herencia y excepciones, pasando por la verificación formal de tipos con type hints, las estructuras de datos nativas y funcionales, el catálogo completo de patrones de diseño, las suites de pruebas automatizadas con TDD y las arquitecturas de procesamiento concurrente.
 
 ¡Feliz programación orientada a objetos en Python!
+
